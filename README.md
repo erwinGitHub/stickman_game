@@ -1,2 +1,2 @@
 # stickman_game
-My first game in Python
+The Stickman game it easy platform game. Control stickman using keyboard and try to reach door.  
